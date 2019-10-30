@@ -1,0 +1,24 @@
+﻿<Controls:MetroWindow x:Class="WPF_Gamers_Dashboard.customerAdd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Gamers_Dashboard"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+                      xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        mc:Ignorable="d"
+        Title="Add Company" Height="463" Width="619">
+    
+    <Grid Margin="0,0,2,0">
+        <Label x:Name="lbldetails" Content="Company Details" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" Width="185"/>
+        <Label x:Name="lblCompanyName" Content="Company Name" HorizontalAlignment="Left" Margin="24,50,0,0" VerticalAlignment="Top" Width="114" Height="25" FontWeight="Bold"/>
+        <TextBox x:Name="tbx_CompanyName" HorizontalAlignment="Left" Height="25" Margin="173,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="366"/>
+        <TextBox x:Name="tbx_PhoneNo" HorizontalAlignment="Left" Height="25" Margin="173,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="366"/>
+        <TextBox x:Name="tbx_Email" HorizontalAlignment="Left" Height="24" Margin="173,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="366"/>
+        <Button x:Name="btnAdd" Content="Add" HorizontalAlignment="Left" Margin="308,343,0,0" VerticalAlignment="Top" Width="74" Click="btnAdd_Click" RenderTransformOrigin="1.143,0.792"/>
+        <Label x:Name="lblPhone" Content="Phone" HorizontalAlignment="Left" Margin="24,112,0,0" VerticalAlignment="Top" Width="114" Height="25" FontWeight="Bold"/>
+        <Label x:Name="lblEmail" Content="Email" HorizontalAlignment="Left" Margin="24,174,0,0" VerticalAlignment="Top" Width="114" Height="25" FontWeight="Bold"/>
+        <Label x:Name="lblAddress" Content="Address" HorizontalAlignment="Left" Margin="24,231,0,0" VerticalAlignment="Top" Width="114" Height="25" FontWeight="Bold"/>
+        <TextBox x:Name="tbx_Address" HorizontalAlignment="Left" Height="76" Margin="173,232,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="366"/>
+    </Grid>
+</Controls:MetroWindow>

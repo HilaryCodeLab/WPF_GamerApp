@@ -1,0 +1,128 @@
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\Card1.g.cs
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\MainWindow.g.cs
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\App.g.cs
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard_MarkupCompile.cache
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard_MarkupCompile.lref
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\WPF-Gamers-Dashboard.exe.config
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\WPF-Gamers-Dashboard.exe
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\WPF-Gamers-Dashboard.pdb
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\ControlzEx.dll
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.dll
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.Wpf.dll
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.dll
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\System.Windows.Interactivity.dll
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\ControlzEx.pdb
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.pdb
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.xml
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.Wpf.pdb
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.Wpf.xml
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.pdb
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.xml
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\App.baml
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\Card1.baml
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\MainWindow.baml
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.g.resources
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\WPF_Gamers_Dashboard.Properties.Resources.resources
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.csproj.GenerateResource.cache
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.csproj.CoreCompileInputs.cache
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.exe
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.pdb
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.csprojResolveAssemblyReference.cache
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\ChartCard.g.cs
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\ChartCard.baml
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\searchPage.g.cs
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\searchPage.baml
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\Newtonsoft.Json.dll
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\bin\Debug\Newtonsoft.Json.xml
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\customerAdd.g.cs
+E:\net\WPF-Gamers-Dashboard\WPF-Gamers-Dashboard\obj\Debug\customerAdd.baml
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\WPF-Gamers-Dashboard.exe.config
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\WPF-Gamers-Dashboard.exe
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\WPF-Gamers-Dashboard.pdb
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\ControlzEx.dll
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.dll
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.Wpf.dll
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.dll
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\Newtonsoft.Json.dll
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\System.Windows.Interactivity.dll
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\ControlzEx.pdb
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.pdb
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.xml
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.Wpf.pdb
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.Wpf.xml
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.pdb
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.xml
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\Newtonsoft.Json.xml
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.csprojResolveAssemblyReference.cache
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\Card1.g.cs
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\ChartCard.g.cs
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\customerAdd.g.cs
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\MainWindow.g.cs
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\searchPage.g.cs
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\App.g.cs
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard_MarkupCompile.cache
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard_MarkupCompile.lref
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\App.baml
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\Card1.baml
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\ChartCard.baml
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\customerAdd.baml
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\MainWindow.baml
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\searchPage.baml
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.g.resources
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF_Gamers_Dashboard.Properties.Resources.resources
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.csproj.GenerateResource.Cache
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.csproj.CoreCompileInputs.cache
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.exe
+E:\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.pdb
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.csprojResolveAssemblyReference.cache
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\Card1.g.cs
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\ChartCard.g.cs
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\customerAdd.g.cs
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\MainWindow.g.cs
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\searchPage.g.cs
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\App.g.cs
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard_MarkupCompile.cache
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard_MarkupCompile.lref
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.exe
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.pdb
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\WPF-Gamers-Dashboard.exe.config
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\WPF-Gamers-Dashboard.exe
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\WPF-Gamers-Dashboard.pdb
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\ControlzEx.dll
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.dll
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.dll
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\ControlzEx.pdb
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.pdb
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.xml
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.pdb
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.xml
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\App.baml
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\Card1.baml
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\ChartCard.baml
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\customerAdd.baml
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\MainWindow.baml
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\searchPage.baml
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.g.resources
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF_Gamers_Dashboard.Properties.Resources.resources
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.csproj.GenerateResource.Cache
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\WPF-Gamers-Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\customerEdit.g.cs
+C:\Users\Hillary and Garth\OneDrive - TAFE\DotNet\Assessments\PP4\WPF-Gamers-Dashboard\obj\Debug\customerEdit.baml

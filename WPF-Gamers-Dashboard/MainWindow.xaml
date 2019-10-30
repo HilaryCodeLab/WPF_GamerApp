@@ -1,0 +1,108 @@
+﻿<Controls:MetroWindow x:Class="WPF_Gamers_Dashboard.MainWindow"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+                      xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+                      xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+                      xmlns:local="clr-namespace:WPF_Gamers_Dashboard;assembly="
+                      Title="Gamers App"
+                      Icon="cupcake.ico"
+                      Width="800" Height="480"
+                      MinWidth="800" MinHeight="480"
+                      GlowBrush="{DynamicResource AccentColorBrush}"
+                      WindowStartupLocation="CenterScreen">
+
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <Button Content="settings" />
+            <Button>
+                <StackPanel Orientation="Horizontal">
+                    <iconPacks:PackIconModern Width="24" Height="24" Kind="Cupcake" />
+                    <TextBlock Margin="4 0 0 0" VerticalAlignment="Center" Text="deploy cupcakes" />
+                </StackPanel>
+            </Button>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Save"/>
+                <MenuItem Header="_Quit"/>
+            </MenuItem>
+            <MenuItem Header="_Games" Click="MenuItem_Click"/>
+            <MenuItem Header="Add" x:Name="addMenu"/>
+            <MenuItem Header="Search Page" x:Name="searchPageMenu" Click="searchPageMenu_Click"/>
+        </Menu>
+        <StatusBar DockPanel.Dock="Bottom" Background="DeepPink" Height="30">
+            <StatusBar.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="60"/>
+                            <ColumnDefinition Width="60"/>
+                            <ColumnDefinition Width="60"/>
+                        </Grid.ColumnDefinitions>
+                    </Grid>
+                </ItemsPanelTemplate>
+            </StatusBar.ItemsPanel>
+            <StatusBarItem Margin="0,0,-384,0">
+                <TextBlock x:Name="FileNameLabel"  Text="Ready" Width="524"/>
+            </StatusBarItem>
+            <StatusBarItem Grid.Column="2">
+                <TextBlock Name="Scrl" Text="SCRL"  Margin="5,0,0,0"/>
+            </StatusBarItem>
+            <StatusBarItem Grid.Column="3">
+                <TextBlock Name="Num" Text="NUM"  Margin="5,0,0,0"/>
+            </StatusBarItem>
+            <StatusBarItem Grid.Column="4">
+                <TextBlock Name="Caps" Text="CAPS" Margin="5,0,0,0"/>
+            </StatusBarItem>
+        </StatusBar>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10"/>
+                <RowDefinition Height="180"/>
+                <RowDefinition Height="10"/>
+                <RowDefinition Height="180"/>
+                <RowDefinition Height="*"/>
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="185"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="185"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="185"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="185"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            <local:Card1
+                Grid.Column="1"
+                Grid.Row="1"
+                CardTitle="Hello"
+                CardContent="80"
+                CardBackground="Yellow"
+                CardBorderColor="#FF006600"
+                CardBorderWidth="5"
+                CardBorderRadius="10"
+                />
+            
+            <local:ChartCard
+                x:Name="ChartControl"
+                Grid.Column="3"
+                Grid.Row="1"
+                
+                />
+
+        </Grid>
+
+    </DockPanel>
+
+</Controls:MetroWindow>
